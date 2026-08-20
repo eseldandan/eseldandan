@@ -1,0 +1,14 @@
+{
+  "hash": "fc78cdbdbf09333512d8276e659cc9b7",
+  "result": {
+    "markdown": "---\ntitle: Bienvenida\nauthor: eseldandan\ndate: '2026-08-20'\ncategories: -R, pruebas, blog\n---\n\n\n## Bienvenidos a mi blog.\n\nAquí vamos a subir _todo_ lo que procesaremos con **datos**\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n5+5\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 10\n```\n:::\n:::\n\n\n\n## si quieres insertar imagen tiene que estar en la misma carpeta de la entrada y usarla con \"! [] (nombre_.jpg)\"\n\n\n\n### Referencias\n\n[Link](https://santiagorusers.github.io/taller_quarto_blog/taller_quarto_blog.html#/qu%C3%A9-es-quarto)\n\n\n### Saludos\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

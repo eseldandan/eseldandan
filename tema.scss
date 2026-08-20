@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+
+// ==========================================
+// 1. COLORES DE ACENTO Y MARCA
+// ==========================================
+$primary: #0077b6;       // Color principal: Azul órbita (botones principales, badges, acentos)
+$secondary: #d90429;     // Color secundario: Rojo supernovas (alertas, métricas clave, destaques)
+
+// ==========================================
+// 2. CONFIGURACIÓN PRINCIPAL DE LA PÁGINA
+// ==========================================
+$body-bg: #f2f4f8;       // Fondo general: Gris polvo estelar claro (no oscuro, reduce fatiga visual)
+$body-color: #2b303a;    // Texto principal: Gris noche profundo (alta legibilidad para lectura larga)
+$link-color: #028090;    // Enlaces: Azul cían espacial (destaca claramente en el texto)
+$border-color: #cbd5e1;  // Líneas divisorias: Gris satélite (para bordes de tarjetas y divisiones)
+
+// ==========================================
+// 3. TIPOGRAFÍA Y TÍTULOS (JERARQUÍA VISUAL)
+// ==========================================
+$headings-color: #0b1d3a; // TÍTULOS Y SUBTÍTULOS (H1, H2, H3...): Azul cósmico muy oscuro
+                          // Garantiza que los títulos NO SE PIERDAN y tengan máximo contraste.
+
+// ==========================================
+// 4. BLOQUES DE CÓDIGO (R, Python, SQL)
+// ==========================================
+$code-block-bg: #e2e8f0; // Fondo de código: Gris consola claro (mantiene legibilidad de syntax highlighting)
+$code-color: #1e293b;    // Texto del código: Gris oscuro
+
+// ==========================================
+// 5. BARRA DE NAVEGACIÓN SUPERIOR
+// ==========================================
+$navbar-bg: #0b1d3a;     // Fondo de la barra: Azul noche profundo (da el toque espacial sin oscurecer la página)
+$navbar-fg: #ffffff;     // Texto e íconos de la barra: Blanco estelar puro
+$navbar-hl: #38bdf8;     // Enlace activo/hover en la barra: Azul plasma brillante
+
+// ==========================================
+// 5. BARRA DE NAVEGACIÓN SUPERIOR desde https://fonts.google.com/ seleccionamos y vemos el embed code
+// ==========================================
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+$font-family-sans-serif: "Roboto", sans-serif;
+
+h1, h2, h3, h4, h5 {
+  font-family: "Roboto", sans-serif !important;
+}
+
