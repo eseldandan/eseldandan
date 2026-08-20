@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "eseldandan"
+  title: "Ejercicio de R"
   navbar:
     right:
       - about.qmd

@@ -1,0 +1,28 @@
+---
+title: Bienvenida
+author: eseldandan
+date: '2026-08-20'
+categories: -R, pruebas, blog
+---
+
+## Página para compartir ejercicios de R
+
+Aquí vamos a subir *todo* lo que procesaremos con **datos en RStudio**
+
+![](logo_r.jpg)
+
+
+## Crear una página tipo blog
+
+Empezamos instalando 
+
+
+
+
+## si quieres insertar imagen tiene que estar en la misma carpeta de la entrada y usarla con "! \[\] (nombre\_.jpg)"
+
+### Referencias
+
+[Link](https://santiagorusers.github.io/taller_quarto_blog/taller_quarto_blog.html#/qu%C3%A9-es-quarto)
+
+### Saludos
