@@ -1,5 +1,5 @@
 ---
-title: "Página prueba"
+title: "Página"
 listing:
   contents: posts
   sort: "date desc"
